@@ -17,21 +17,21 @@ const Skills = () => {
           <img src="website-design.png" alt="" className="skillBarImg" />
           <div className="skillBarText">
             <h2>Frontend Design</h2>
-            <p>You can write your content here</p>
+            <p>HTML, CSS, JavaScript and ReactJs</p>
           </div>
         </div>
         <div className="skillBar">
           <img src="ui-design.png" alt="" className="skillBarImg" />
           <div className="skillBarText">
             <h2>Backend Design</h2>
-            <p>You can write your content here</p>
+            <p>Django, NodeJs</p>
           </div>
         </div>{" "}
         <div className="skillBar">
           <img src="app-design.png" alt="" className="skillBarImg" />
           <div className="skillBarText">
             <h2>Wordpress Developer</h2>
-            <p>You can write your content here</p>
+            <p>Wordpress Tools</p>
           </div>
         </div>
       </div>
