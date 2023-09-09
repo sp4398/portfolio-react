@@ -1,4 +1,5 @@
 {
+  "homepage":"http://sp4398.github.io/portfolio-react",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,8 +12,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
-    "web-vitals": "^2.1.4",
-    "homepage":"http://sp4398.github.io/portfolio-react"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
