@@ -15,26 +15,47 @@ const Works = () => {
         presence.
       </span>
       <div className="worksImg">
-        <a href="https://github.com/sp4398/Chatting_app.git" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/sp4398/Chatting_app.git"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src="images.png" alt="" className="workImg" />{" "}
           <div className="text-popup">Your Popup Text</div>
         </a>
         <a
           href="https://github.com/sp4398/Breast-Cancer-Detection-ML.git"
-          target="_blank" rel="noreferrer"
+          target="_blank"
+          rel="noreferrer"
         >
           <img src="breast1.jpg" alt="" className="workImg" />
         </a>
-        <a href="https://sp4398.github.io/lgm-vip-task1/" target="_blank" rel="noreferrer">
+        <a
+          href="https://sp4398.github.io/lgm-vip-task1/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src="to-do-list.png" alt="" className="workImg" />
         </a>
-        <a href="https://github.com/sp4398/2048-Game.git" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/sp4398/2048-Game.git"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src="2048.jpg" alt="" className="workImg" />
         </a>
-        <a href="https://sp4398.github.io/lgm-vip-task4/" target="_blank" rel="noreferrer">
+        <a
+          href="https://sp4398.github.io/lgm-vip-task4/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src="calculator.jpg" alt="" className="workImg" />
         </a>
-        <a href="https://sp4398.github.io/reaction-tester/" target="_blank" rel="noreferrer">
+        <a
+          href="https://sp4398.github.io/reaction-tester/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src="reaction.jpg" alt="" className="workImg" />
         </a>
       </div>
