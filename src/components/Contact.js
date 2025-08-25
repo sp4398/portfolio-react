@@ -59,16 +59,29 @@ const Contact = () => {
             <a
               href="https://www.facebook.com/saurav.pandey.16547008/"
               target="_blank"
+              rel="noreferrer"
             >
               <img src="facebook-icon.png" alt="fb" className="link" />
             </a>
-            <a href="https://twitter.com/sp4398" target="_blank">
+            <a
+              href="https://twitter.com/sp4398"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src="twitter.png" alt="twitter" className="link" />
             </a>
-            <a href="https://www.instagram.com/sp4398/" target="_blank">
+            <a
+              href="https://www.instagram.com/sp4398/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src="instagram.png" alt="instagram" className="link" />
             </a>
-            <a href="https://github.com/sp4398" target="_blank">
+            <a
+              href="https://github.com/sp4398"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img src="gitHub.png" alt="gitHub" className="link" />
             </a>
           </div>
